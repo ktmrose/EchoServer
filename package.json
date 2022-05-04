@@ -1,0 +1,14 @@
+{
+  "name": "echoserver",
+  "version": "1.0.0",
+  "description": "Server that echoes any response from a client back to the client",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^8.6.0"
+  }
+}
